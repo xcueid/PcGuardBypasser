@@ -1,3 +1,8 @@
+광주광역시 노트북 PC가드 우회기
+
+가이드 : https://youtu.be/7brVKyNtSbo
+
+
 pip install psutil
 pip install PyQt5
 
