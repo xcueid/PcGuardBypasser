@@ -65,7 +65,7 @@ class Ui_MainWindow(object):
                 print("일시 중단된 프로세스가 없습니다.")
 
 
-        process_names_to_pause = ["iAgent.exe", "iAgent32.exe", "iWatcher.exe"] 
+        process_names_to_pause = ["iAgent.exe", "iAgent32.exe", "iWatcher.exe", "iService.exe"] 
         pause_processes_by_name(process_names_to_pause)
 
 
