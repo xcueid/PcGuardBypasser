@@ -1,5 +1,5 @@
 import time
 
-print("응니애미")
+print("닥쳐 툴키디")
 
 time.sleep(5000)
